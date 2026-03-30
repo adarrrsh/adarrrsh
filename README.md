@@ -194,15 +194,6 @@ Dainik Jagran
 
 </p>
 
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://github.com/adarrrsh/adarrrsh/blob/output/github-contribution-grid-snake.svg"/>
-
-</p>
 
 ---
 
